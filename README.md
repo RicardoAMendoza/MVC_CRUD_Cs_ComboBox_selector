@@ -1,6 +1,6 @@
 # MVC Combo Box Control
 
-## MVC (Model, View, Controller & CRUD (Create, Read, Update, Delete)
+## MVC (Model, View, Controller) & CRUD (Create, Read, Update, Delete)
 
 ## Project name : prjWin_MVC_ComboBox_selector_Rm
 
